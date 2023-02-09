@@ -6,5 +6,8 @@ public class Main {
 
         System.out.println("Latitude of main post office in Kyiv is " + latitude);
         System.out.println("Longitude of main post office in Kyiv is " + longitude);
+
+
+        System.out.println("Push Commit");
     }
 }
