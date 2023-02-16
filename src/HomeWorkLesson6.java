@@ -31,6 +31,7 @@ public class HomeWorkLesson6 {
             System.exit(0);
         }
 
+
         Scanner numberOfPointsTeam1Player3 = new Scanner(System.in);
         System.out.println("Введіть кількість фрагів для гравця 3 з команди " + teamName1 + ": ");
         int pointsTeam1Player3 = 3;
