@@ -38,5 +38,6 @@ public class HomeWork7Lesson6 {
             }
         }
         System.out.println("You lose...");
+
     }
 }
