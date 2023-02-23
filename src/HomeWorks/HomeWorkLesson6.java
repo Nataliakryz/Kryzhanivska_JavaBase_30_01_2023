@@ -1,3 +1,5 @@
+package HomeWorks;
+
 import java.util.Scanner;
 
 public class HomeWorkLesson6 {
