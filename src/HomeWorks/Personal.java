@@ -21,5 +21,6 @@ public class Personal {
 
     public static String personInfo(String name, String surname, String city, String phoneNumber){
         return "Зателефонувати громадянинові " + name + " " + surname + " з міста " + city + " можна за номером " + phoneNumber + ".";
+
     }
 }
