@@ -42,9 +42,5 @@ public class HomeWork9Lesson7 {
         System.out.println();
         System.out.println("Середній вік: " + sum2 / numberMembersOfTeam);
 
-
-
-
-
     }
 }
