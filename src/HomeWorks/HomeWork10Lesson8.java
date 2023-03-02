@@ -16,6 +16,7 @@ public class HomeWork10Lesson8 {
 //            [1, 1, 2, 3, 5, 6, 9]
 //    Кількість збігів: 3
 
+
     public static void main(String[] args) {
         int countOfNumbers = 7;
         int[] array1 = new int[countOfNumbers];
