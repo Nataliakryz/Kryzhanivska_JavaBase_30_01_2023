@@ -1,6 +1,6 @@
 package HomeWorks;
 
-public class Person {
+public class Person1 {
     public static void main(String[] args) {
 
 //        1. Зробити клас Person та в ньому метод personInfo()
