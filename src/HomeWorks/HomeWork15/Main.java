@@ -17,6 +17,7 @@ public class Main {
         };
 
         for (MusicStyles musicStyles1 : musicStyles) {
+
             musicStyles1.playMusic();
         }
     }
